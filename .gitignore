@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+slack_logs.txt
+simulated_repo/
+.streamlit/
